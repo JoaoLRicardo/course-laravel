@@ -75,7 +75,7 @@
                         href="/jobs/{{ $job->id }}"
                         class="text-sm/6 font-semibold text-gray-900"
                     >Cancel</a>
-                    <x-primary-button type="submit">Update</x-primary-button>
+                    <x-form-button type="submit">Update</x-form-button>
                 </div>
             </div>
         </div>
